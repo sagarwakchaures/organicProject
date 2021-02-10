@@ -1,0 +1,967 @@
+Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: Error: Incorrect username or password !!!
+    at Object.userObj.checkUserRecordIsExist (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:30:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: Error: Incorrect username or password !!!
+    at Object.userObj.checkUserRecordIsExist (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:34:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:9:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:11:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:11:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:11:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:11:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Passsword is required !!!
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:17:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)Error: Email is already registered with us !!!
+    at Object.userObj.registerUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:11:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: Email is already registered with us !!!
+    at Object.userObj.registerUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:12:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: Error: Incorrect username or password !!!
+    at Object.userObj.checkUserRecordIsExist (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:47:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: Email is already registered with us !!!
+    at Object.userObj.registerUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:12:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)undefinedundefinedundefinedundefinedError: UserId is required !!!
+    at router.post (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:48:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:16)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)ReferenceError: params is not defined
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:48:28)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)ReferenceError: params is not defined
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:50:28)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)ReferenceError: params is not defined
+    at router.use (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:50:28)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)Error: Error: User id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:94:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:94:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:94:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:94:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)undefinedError: Email is already registered with us !!!
+    at Object.userObj.registerUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:12:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: Email is already registered with us !!!
+    at Object.userObj.registerUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:12:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: invalid request
+    at checkRequest (/home/sagarwakchaure/Desktop/organicProject/src/middleware/checkRequest.js:6:15)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at cors (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:188:7)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:214:15)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/sagarwakchaure/Desktop/organicProject/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: Email is already registered with us !!!
+    at Object.userObj.registerUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:12:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:94:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:94:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:94:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:94:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)ReferenceError: accessToken is not defined
+    at router.put (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:45:18)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:281:22
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)ReferenceError: accessToken is not defined
+    at router.put (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:48:18)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:281:22
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)ReferenceError: accessToken is not defined
+    at router.put (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:48:18)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:281:22
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)ReferenceError: accessToken is not defined
+    at router.put (/home/sagarwakchaure/Desktop/organicProject/src/controller/userController.js:48:18)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:281:22
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:410:3)
+    at next (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:317:13)
+    at /home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/sagarwakchaure/Desktop/organicProject/node_modules/express/lib/router/index.js:335:12)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: User Id is not exist
+    at Object.userObj.deleteUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:112:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: Email is already registered with us !!!
+    at Object.userObj.registerUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:12:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)Error: Email is already registered with us !!!
+    at Object.userObj.registerUser (/home/sagarwakchaure/Desktop/organicProject/src/service/userService.js:12:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
