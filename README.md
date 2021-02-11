@@ -1,5 +1,6 @@
 # organicProject
 #Need to access the backend using port no: 3001
+#Go to src folder then start the server by using the command: node api.js
 
 #Following are API description
 
