@@ -34,7 +34,7 @@ router.post('/login',(req, res,next) => {
     const { email, password } = req.body;
     userService.checkUserRecordIsExist(email,password).then((result)=>{
         if (result) {
-            const accessToken = jwt.sign({ email: email,  password: password }, 'accessTokenSecret');
+            const accessToken = jwt.sign({ userId: result.userId,email: email,name:result.name}, 'accessTokenSecret');
             return res.json({
                "token": accessToken,
                "message": "Login is successful !!!!"
@@ -49,7 +49,7 @@ router.post('/login',(req, res,next) => {
  * Delete user
  */
 router.delete('/delete/:userId',(req,res,next)=>{
-    let userId = req.params.userId;    
+    let userId = req.params.userId;   
     if (!userId) {    
         throw new Error('UserId is required !!!');
     }
@@ -81,7 +81,7 @@ router.put('/update/:userId',(req,res,next)=>{
             "message": "No data for updation !!!"
         });
     }
-    userService.updateUser(userId,obj).then(()=>{
+    userService.updateUser(userId,updateObj).then(()=>{
         return res.json({
             "status": 1,
             "message": "Account is updated successfully !!!"
@@ -89,5 +89,31 @@ router.put('/update/:userId',(req,res,next)=>{
     }).catch((err)=>{
         next(err);
     });
-});    
+});
+
+/**
+ * Retrieve user
+ */
+router.get('/retrieve',(req,res,next)=>{
+        let params = req.query;
+        let filters = {};
+        if (params.userId) {    
+            filters['userId'] = Number(params.userId);
+        }
+        if (params.name) {    
+            filters['name'] = params.name;
+        }
+        if (params.email) {    
+            filters['email'] = params.email;
+        }
+        userService.retrieveUser(filters).then((response)=>{
+            return res.json({
+                "status": 1,
+                "data": response
+            });
+        }).catch((err)=>{
+            next(err);
+        });
+});
+
 module.exports = router;

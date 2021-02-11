@@ -2,11 +2,12 @@ const jwt = require('jsonwebtoken');
 const allowAction = require('../config/action');
 
 async function verify(req,res,next) {
-    //allowAction before login
+    //allow actions like login,register without verify
     if (allowAction[req.action]) {
         next();
     } else {
         let bearerHeader = req.headers['authorization'];
+      
         let token;
         if (bearerHeader) {
             let  bearer = bearerHeader.split(" ");
@@ -32,6 +33,7 @@ async function verify(req,res,next) {
                 message:"Unretricted access !!!"        
             });
         }
+        req.loggedInUserInfo = payload;
         next();
     }
 }

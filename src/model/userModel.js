@@ -6,14 +6,14 @@ const userSchema = new Schema({
     name: { type: String, required: true },
     email: { type: String, required: true },
     password:   { type: String, required: true },
-    status: {type: String,enum:['active','inactive'],default : 'inactive'},
+    status: {type: String,enum:['Active','Inactive'],default : 'Inactive'},
     createdBy: String
   },{
       timestamps:true
   },{
-      collection:"User"
+      collection:"Users"
   });
 
-  let UserModel = mongoose.model('User', userSchema,'User');
+  let UserModel = mongoose.model('Users', userSchema,'Users');
 
   module.exports = UserModel;

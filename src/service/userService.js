@@ -20,7 +20,7 @@ userObj.registerUser = async(obj) =>{
     try {
         result = await UserModel.create(obj);
     } catch(err){
-        let error = new Error("Enable to register the user !!!");
+        let error = new Error(err.message);
         error.status = 500;
         throw error;
     }
@@ -35,7 +35,7 @@ userObj.registerUser = async(obj) =>{
 userObj.checkUserRecordIsExist = async(email,password) =>{
     let result;
     try {
-        result = await UserModel.findOne({email:email,password:md5(password)});
+        result = await UserModel.findOne({email:email,password:md5(password),status:"Active"});
         if (!result) {
             let err =  new Error('Incorrect username or password !!!');
             err.status = 400;
@@ -108,6 +108,21 @@ userObj.deleteUser = async (userId) => {
         if (result.deletedCount === 0) {
             throw new Error('User Id is not exist');
         }
+    } catch(err){
+        let error = new Error(err.message);
+        error.status = 500;
+        throw error;
+    }
+    return result; 
+}
+
+/**
+ * retrieve the user based on filters
+ */
+userObj.retrieveUser = async(filters) => {
+    let result;
+    try {
+        result = await UserModel.find(filters);
     } catch(err){
         let error = new Error(err.message);
         error.status = 500;
